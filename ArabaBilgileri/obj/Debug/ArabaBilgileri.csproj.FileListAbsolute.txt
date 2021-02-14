@@ -1,0 +1,7 @@
+C:\Users\KAAN\source\repos\ArabaBilgileri\ArabaBilgileri\bin\Debug\ArabaBilgileri.exe.config
+C:\Users\KAAN\source\repos\ArabaBilgileri\ArabaBilgileri\bin\Debug\ArabaBilgileri.exe
+C:\Users\KAAN\source\repos\ArabaBilgileri\ArabaBilgileri\bin\Debug\ArabaBilgileri.pdb
+C:\Users\KAAN\source\repos\ArabaBilgileri\ArabaBilgileri\obj\Debug\ArabaBilgileri.csprojAssemblyReference.cache
+C:\Users\KAAN\source\repos\ArabaBilgileri\ArabaBilgileri\obj\Debug\ArabaBilgileri.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\source\repos\ArabaBilgileri\ArabaBilgileri\obj\Debug\ArabaBilgileri.exe
+C:\Users\KAAN\source\repos\ArabaBilgileri\ArabaBilgileri\obj\Debug\ArabaBilgileri.pdb
